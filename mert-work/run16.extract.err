@@ -1,0 +1,11 @@
+Binary write mode is NOT selected
+Scorer type: WER
+name: case value: true
+Data::m_score_type WER
+Data::Scorer type from Scorer: WER
+loading nbest from run16.best100.out.gz
+Loaded N-best lists : [Wall 0.674926 CPU 0.670655] seconds.
+Binary write mode is NOT selected
+saving the array into run16.features.dat
+saving the array into run16.scores.dat
+Stopping... : [Wall 0.857029 CPU 0.852757] seconds.
